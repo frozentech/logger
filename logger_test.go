@@ -3,7 +3,7 @@ package logger_test
 import (
 	"testing"
 
-	"github.com/reddotpay/logger"
+	"github.com/frozentech/logger"
 	"github.com/stretchr/testify/assert"
 	"go.uber.org/zap"
 )
